@@ -1,0 +1,36 @@
+.counter-section{background:#fff;overflow:hidden;position:relative}
+
+.section-padding{
+	padding:50px 0;
+	align-content: center;
+
+}
+.icon-swag{
+	padding: 10px;
+	color: black;
+	font-size: 80px;
+}
+.swagpara{
+	color:black
+	margin-bottom: -30px;
+}
+.highlight-card{
+  			height: 120px;
+  		}
+
+  @media only screen and (max-width: 768px) {
+
+  		.section-padding{
+  			padding:30px 0
+  		}
+
+
+  		.icon-swag{
+  			font-size: 40px;
+  			padding: 5px;
+  		}
+
+  		.highlight-card{
+  			height: 120px;
+  		}
+  }
